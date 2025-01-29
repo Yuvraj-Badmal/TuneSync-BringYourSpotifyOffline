@@ -1,0 +1,8 @@
+spotipy==2.23.0
+yt-dlp==2024.01.08
+ffmpeg-python==0.2.0
+pytube==15.0.0
+requests==2.31.0
+tkinterdnd2==0.3.0
+mutagen==1.47.0
+python-dotenv==1.0.0
