@@ -36,8 +36,8 @@ pip install -r requirements.txt
     pip install yt-dlp
     ```
  - Install FFmpeg (for MP3 conversion)
-   https://ffmpeg.org/download.html (Windows)
-   https://github.com/yt-dlp/yt-dlp/wiki/Installation (Mac/Linux)
+    - https://ffmpeg.org/download.html (Windows)
+    - https://github.com/yt-dlp/yt-dlp/wiki/Installation (Mac/Linux)
    
 ### **4️⃣ Run TuneSync**
 ```bash
