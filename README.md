@@ -43,29 +43,50 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+--- 
 
-⚙️ Usage Guide
+### **⚙️ Usage Guide**
 
-1️⃣ Log in with your Spotify account2️⃣ Choose a Playlist from your library3️⃣ Select "Download Entire Playlist" or "Select Songs to Download"4️⃣ Wait for downloads to complete & enjoy offline!
+1️⃣ Log in with your Spotify account
+2️⃣ Choose a Playlist from your library
+3️⃣ Select "Download Entire Playlist" or "Select Songs to Download"
+4️⃣ Wait for downloads to complete & enjoy offline!
 
-🛠️ Tech Stack & Libraries Used
+---
 
-✔ Python – Core logic & scripting✔ Spotipy – Connects to Spotify API✔ yt-dlp – Downloads audio from YouTube✔ Tkinter – GUI interface✔ FFmpeg – Converts audio to MP3✔ Mutagen – Adds metadata to MP3 files
+### **🛠️ Tech Stack & Libraries Used**
 
-🚀 Future Enhancements (Next Steps)
+✔ Python – Core logic & scripting
+✔ Spotipy – Connects to Spotify API
+✔ yt-dlp – Downloads audio from YouTube
+✔ Tkinter – GUI interface
+✔ FFmpeg – Converts audio to MP3
+✔ Mutagen – Adds metadata to MP3 files
 
-🔹 Web Version – Convert into a Flask/Django app for remote access🔹 Mobile App – Build an Android/iOS version with Flutter🔹 Cloud Storage – Save downloaded MP3s to Google Drive or Dropbox🔹 More UI Enhancements – Dark mode, improved UX
+---
 
-🤝 Contributing
+### **🚀 Future Enhancements (Next Steps)**
 
-Contributions are welcome! To contribute:1️⃣ Fork the repository2️⃣ Create a new branch (feature-new)3️⃣ Commit changes & open a pull request
+🔹 Web Version – Convert into a Flask/Django app for remote access
+🔹 Mobile App – Build an Android/iOS version with Flutter
+🔹 Cloud Storage – Save downloaded MP3s to Google Drive or Dropbox
+🔹 More UI Enhancements – Dark mode, improved UX
 
-📜 License
+---
 
-MIT License – Free to use & modify.
+### **🤝 Contributing**
 
-📢 Contact & Support
+Contributions are welcome! 
+To contribute:
+  1️⃣ Fork the repository
+  2️⃣ Create a new branch (feature-new)
+  3️⃣ Commit changes & open a pull request
 
-💬 Have questions or feature requests? Open an issue!📧 Email: your.email@example.com📌 GitHub: Your Repo
+---
 
-🔥 If you like this project, don't forget to star ⭐ it on GitHub! 🚀
+### **📢 Contact & Support**
+
+💬 Have questions or feature requests? Open an issue!
+📧 Email: your.email@example.com
+
+---
