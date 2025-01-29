@@ -24,8 +24,8 @@ Easily **download your Spotify playlists as MP3 files** using **Python, Tkinter 
 Ensure you have **Python 3.8+** installed, then run:
 ```bash
 pip install -r requirements.txt
-
-2️⃣ Set Up Spotify API
+```
+### **2️⃣ Set Up Spotify API
 Go to Spotify Developer Dashboard
 Create a new application & get Client ID & Secret
 Update your .env file:
