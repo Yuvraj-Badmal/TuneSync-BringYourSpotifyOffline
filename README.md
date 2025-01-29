@@ -60,8 +60,7 @@ python main.py
 ✔ Spotipy – Connects to Spotify API  
 ✔ yt-dlp – Downloads audio from YouTube  
 ✔ Tkinter – GUI interface  
-✔ FFmpeg – Converts audio to MP3  
-✔ Mutagen – Adds metadata to MP3 files  
+✔ FFmpeg – Converts audio to MP3     
 
 ---
 
