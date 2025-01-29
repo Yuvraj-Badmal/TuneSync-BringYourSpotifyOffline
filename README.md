@@ -1,8 +1,6 @@
 # 🎵 TuneSync – Bring Your Spotify Offline!
 Easily **download your Spotify playlists as MP3 files** using **Python, Tkinter (GUI), Spotify API, YouTube API (yt-dlp), and FFmpeg** for seamless music conversion and offline listening anytime, anywhere!  
 
-![TuneSync Banner](https://via.placeholder.com/800x300?text=TuneSync+-+Bring+Your+Spotify+Offline!)  
-
 ---
 
 ## 📌 **Features**
@@ -11,13 +9,14 @@ Easily **download your Spotify playlists as MP3 files** using **Python, Tkinter 
 ✅ **Smart Syncing – No Duplicate Downloads**  
 ✅ **Fast & High-Quality MP3 Conversion (192kbps)**  
 ✅ **Progress Bar & Log Window – Real-time download tracking**  
-✅ **Pause, Skip, or Stop Downloads Anytime**  
+✅ **Stop Downloads Anytime**  
 
 ---
 
 ## 📸 **Screenshots**
 🚀 **Main Interface**  
-![Main Interface](https://via.placeholder.com/600x300?text=Main+Interface)  
+![image](https://github.com/user-attachments/assets/b9fb75ae-d633-438f-97ce-9f4962e9b463)
+ 
 
 🎵 **Song Selection Window**  
 ![Song Selection](https://via.placeholder.com/600x300?text=Select+Songs+to+Download)  
