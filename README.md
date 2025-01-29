@@ -87,6 +87,6 @@ To contribute:
 ### **📢 Contact & Support**  
 
 💬 Have questions or feature requests? Open an issue!  
-📧 Email: your.email@example.com  
+📧 Email: badmal.uv@gmail.com 
 
 ---
