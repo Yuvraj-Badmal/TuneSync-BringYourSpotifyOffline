@@ -56,37 +56,37 @@ python main.py
 
 ### **🛠️ Tech Stack & Libraries Used**
 
-✔ Python – Core logic & scripting
-✔ Spotipy – Connects to Spotify API
-✔ yt-dlp – Downloads audio from YouTube
-✔ Tkinter – GUI interface
-✔ FFmpeg – Converts audio to MP3
-✔ Mutagen – Adds metadata to MP3 files
+✔ Python – Core logic & scripting  
+✔ Spotipy – Connects to Spotify API  
+✔ yt-dlp – Downloads audio from YouTube  
+✔ Tkinter – GUI interface  
+✔ FFmpeg – Converts audio to MP3  
+✔ Mutagen – Adds metadata to MP3 files  
 
 ---
 
 ### **🚀 Future Enhancements (Next Steps)**
 
-🔹 Web Version – Convert into a Flask/Django app for remote access
-🔹 Mobile App – Build an Android/iOS version with Flutter
-🔹 Cloud Storage – Save downloaded MP3s to Google Drive or Dropbox
-🔹 More UI Enhancements – Dark mode, improved UX
+🔹 Web Version – Convert into a Flask/Django app for remote access  
+🔹 Mobile App – Build an Android/iOS version with Flutter  
+🔹 Cloud Storage – Save downloaded MP3s to Google Drive or Dropbox  
+🔹 More UI Enhancements – Dark mode, improved UX  
 
 ---
 
 ### **🤝 Contributing**
 
-Contributions are welcome! 
-To contribute:
-  1️⃣ Fork the repository
-  2️⃣ Create a new branch (feature-new)
-  3️⃣ Commit changes & open a pull request
+Contributions are welcome!   
+To contribute:  
+  1️⃣ Fork the repository  
+  2️⃣ Create a new branch (feature-new)  
+  3️⃣ Commit changes & open a pull request  
 
 ---
 
-### **📢 Contact & Support**
+### **📢 Contact & Support**  
 
-💬 Have questions or feature requests? Open an issue!
-📧 Email: your.email@example.com
+💬 Have questions or feature requests? Open an issue!  
+📧 Email: your.email@example.com  
 
 ---
