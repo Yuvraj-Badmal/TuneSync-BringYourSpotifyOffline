@@ -25,7 +25,47 @@ Ensure you have **Python 3.8+** installed, then run:
 ```bash
 pip install -r requirements.txt
 ```
-### **2️⃣ Set Up Spotify API
-Go to Spotify Developer Dashboard
-Create a new application & get Client ID & Secret
-Update your .env file:
+### **2️⃣ Set Up Spotify API**
+ - Go to Spotify Developer Dashboard
+ - Create a new application & get Client ID & Secret
+ - Update your .env file:
+
+### **3️⃣ Set Up YouTube API (yt-dlp) & FFmpeg**
+ - Install yt-dlp:
+    ```bash
+    pip install yt-dlp
+    ```
+ - Install FFmpeg (for MP3 conversion)
+   https://ffmpeg.org/download.html (Windows)
+   https://github.com/yt-dlp/yt-dlp/wiki/Installation (Mac/Linux)
+   
+### **4️⃣ Run TuneSync**
+```bash
+python main.py
+```
+
+⚙️ Usage Guide
+
+1️⃣ Log in with your Spotify account2️⃣ Choose a Playlist from your library3️⃣ Select "Download Entire Playlist" or "Select Songs to Download"4️⃣ Wait for downloads to complete & enjoy offline!
+
+🛠️ Tech Stack & Libraries Used
+
+✔ Python – Core logic & scripting✔ Spotipy – Connects to Spotify API✔ yt-dlp – Downloads audio from YouTube✔ Tkinter – GUI interface✔ FFmpeg – Converts audio to MP3✔ Mutagen – Adds metadata to MP3 files
+
+🚀 Future Enhancements (Next Steps)
+
+🔹 Web Version – Convert into a Flask/Django app for remote access🔹 Mobile App – Build an Android/iOS version with Flutter🔹 Cloud Storage – Save downloaded MP3s to Google Drive or Dropbox🔹 More UI Enhancements – Dark mode, improved UX
+
+🤝 Contributing
+
+Contributions are welcome! To contribute:1️⃣ Fork the repository2️⃣ Create a new branch (feature-new)3️⃣ Commit changes & open a pull request
+
+📜 License
+
+MIT License – Free to use & modify.
+
+📢 Contact & Support
+
+💬 Have questions or feature requests? Open an issue!📧 Email: your.email@example.com📌 GitHub: Your Repo
+
+🔥 If you like this project, don't forget to star ⭐ it on GitHub! 🚀
