@@ -47,10 +47,10 @@ python main.py
 
 ### **⚙️ Usage Guide**
 
-1️⃣ Log in with your Spotify account
-2️⃣ Choose a Playlist from your library
-3️⃣ Select "Download Entire Playlist" or "Select Songs to Download"
-4️⃣ Wait for downloads to complete & enjoy offline!
+1️⃣ Log in with your Spotify account  
+2️⃣ Choose a Playlist from your library  
+3️⃣ Select "Download Entire Playlist" or "Select Songs to Download"  
+4️⃣ Wait for downloads to complete & enjoy offline!  
 
 ---
 
